@@ -9,6 +9,7 @@ by all other KindPath repositories.
 
 | File | Status | Description |
 |------|--------|-------------|
+| `THE_GROUND.md` | Active | **Read first.** The epistemological foundation beneath the canon. Negative capability, "I know that I know nothing" as positive structural claim, Gödel as formal proof of the same insight, the forgazi of the observer, and why the exponent n may be recursive and bidirectional rather than fixed. The ground beneath the other documents. |
 | `COMPASS_METHODOLOGY_PENDING.md` | Pending | Compass methodology v1 (awaiting upload) |
 | `TRADING_ARCHITECTURE_PENDING.md` | Pending | DFTE trading architecture |
 | `practice_framework_one_pager.md` | Active | One-page practice framework reference |
