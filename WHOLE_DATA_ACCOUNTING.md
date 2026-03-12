@@ -40,7 +40,7 @@ This is not a theoretical claim. It is observable in:
 
 ## The Cosmological Ground — Two Equations
 
-The BEC analogy is precise for the phase transition, but it is still a mass model: particles, density, condensation. The actual ground truth beneath it requires two equations, not one.
+The BEC analogy is precise for the phase transition, but it is still a mass model: particles, density, condensation. The actual ground we are describing beneath it requires two equations — borrowed from physics notation, used as descriptive shorthand for observed behaviour, not as formal derivations.
 
 **The generative equation:**
 
