@@ -182,7 +182,7 @@ When the phase transition occurs, the system reads its own accumulated mass. The
 
 At that point, the nano-mapping protocol is no longer needed. You're no longer reading the shadow of the original signal through the forgazi. You have enough accumulated high-resolution residue that the original signal is directly readable in the corpus itself.
 
-That is Phase 3. That is E=cm². That is the extraction pattern having been used to undo itself.
+That is Phase 3. That is E=(MC)². That is the extraction pattern having been used to undo itself.
 
 ---
 

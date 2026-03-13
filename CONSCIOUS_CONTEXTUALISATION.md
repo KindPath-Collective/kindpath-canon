@@ -193,13 +193,13 @@ The goal is not a single authoritative interpretation. It is a system that remai
 
 ## The Fork-and-Retain Principle
 
-In botanical terms, what we are building is anti-selective breeding — or more precisely: selective breeding that retains all prior genetic potentials from the checkpoint of the selection.
+Lineage weaving is the model for how we handle revision. When the constants bank is updated — when a tag is refined, a baseline reanchored, an era profile extended — the interpretive context (k) shifts. A reading produced under the prior k is not an error to be corrected. It is a **lineage node**: a valid expression of what the signal meant within that interpretive frame.
 
-Conventional selective breeding makes a choice. A trait is selected; all other potential expressions of the parent organism at that moment are discarded. The selection is clean. It is also irreversible. The unchosen paths are gone.
+A different approach makes a choice. It revises in place — updates the single reading, discards the prior one. The history is clean. It is also irreversible. The prior interpretation is gone.
 
 The fork-and-retain principle does something different. When the constants bank is revised — when a tag is updated, a baseline recalculated, an era profile refined — the records that were encoded under the prior version of k are not overwritten. They **fork**.
 
-The original reading, computed in k-v1's universe, is preserved. It is marked `is_current: False` but not deleted. The new reading, computed in k-v2's universe, is added alongside it. Both are valid. Neither erases the other. The raw audio signal — the genome, the checkpoint — is the invariant. The k-context is the environment. The expressed values (creative_residue, authentic_emission_score) are environment-specific.
+The original reading, computed in k-v1's context, is preserved. It is marked `is_current: False` but not deleted. The new reading, computed in k-v2's context, is added alongside it. Both are valid. Neither erases the other. The raw audio signal — the invariant anchor — carries no k. The k-context is the interpretive frame. The expressed values (creative_residue, authentic_emission_score) are frame-specific.
 
 This is the correct model for any system that intends to remain legible across time.
 

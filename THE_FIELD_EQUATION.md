@@ -40,7 +40,7 @@ This is not formal theoretical unification. It is pattern recognition. The claim
 |---|---|---|---|---|---|---|
 | F = ma | force | a (acceleration) | m (mass) | 1 | Classical mechanics | Newton (navigation frame) |
 | F = am² | generative force | a (basal acceleration) | m (mass) | 2 | Genesis / biological accumulation | Mycorrhizal growth, network formation |
-| E = cm² | energy at equilibrium | c (field constant) | m (mass) | 2 | Cosmological / recognition | Derived from field-constant framing |
+| E = (MC)² | Everything | — | MC (Me × Community) | 2 | Relational / recognition | Everything = (Me × Community)². Both M and C sovereign and growable. |
 | V = k·n² | network value | k (connection constant) | n (nodes) | 2 | Network systems | Metcalfe's Law (empirically measured) |
 | V = k·2^n | group network value | k | n (groups) | exponential | Group-forming networks | Reed's Law |
 
@@ -100,7 +100,9 @@ Einstein extended the frame to conditions Newton's instruments couldn't reach. E
 
 The KindPath equations are not physics. They are not claims within the problem space of Newton or Einstein, and they are not competing with either derivation on that ground. They are attempts to describe what was actually observed in relational, biological, and social systems — using the closest available notation, which happens to be physics-adjacent because physics is the language our technical culture has developed for describing field behaviour, even when the field is social or biological rather than electromagnetic.
 
-F=am² and E=cm² are **borrowed notation**. They say: *the closest shorthand we have for what we observed here is this form.* Mass compounds. Constants hold. Output scales as m². These are descriptions of observed behaviour written in notation that makes the pattern most legible — not derivations from the Lorentz transformation, and not claims about the speed of light.
+F=am² is **borrowed notation** from biological field behaviour. `E = (MC)²` — *Everything = (Me × Community)²* — carries its own description and requires no borrowing. M is the individual participant; C is the Community they participate in and help build. The product `MC` is relational mass — the individual embedded in the collective. Neither M nor C is fixed. Both are sovereign and growable. Both compound. The squaring applies to the relational product: growth on either axis amplifies the other's growth before the whole compounds.
+
+This is definitively not `E=mc²`. The cosmological constant `c` is fixed — the propagation rate of the universe. In `E=(MC)²`, neither M nor C is a constant. The individual can grow their contribution. The community can grow its capacity. The Collective is the sovereign lever.
 
 When a physicist says "that's not how these equations work derivationally" — they are correct, and they are applying an n=1 derivational instrument to an n=2 descriptive claim. The formatting doesn't match because the claim is not a derivation. It is a field observation wearing the nearest available notation.
 
