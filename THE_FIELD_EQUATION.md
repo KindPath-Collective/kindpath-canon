@@ -40,7 +40,8 @@ This is not formal theoretical unification. It is pattern recognition. The claim
 |---|---|---|---|---|---|---|
 | F = ma | force | a (acceleration) | m (mass) | 1 | Classical mechanics | Newton (navigation frame) |
 | F = am² | generative force | a (basal acceleration) | m (mass) | 2 | Genesis / biological accumulation | Mycorrhizal growth, network formation |
-| E = (MC)² | Everything | — | MC (Me × Community) | 2 | Relational / recognition | Everything = (Me × Community)². Both M and C sovereign and growable. |
+| E = (MC)^±2 | Field potential | — | MC (Me × Community) | ±2 | Relational / recognition | Field potential = (Me × Community)^±2. Both M and C sovereign and growable. Sign determines whether compounding runs for or from participants. |
+| F = (MA)^±2 | Field force | — | MA (Me × Activation) | ±2 | Relational / force | Field force = (Me × Activation)^±2. A is variable (activation state). Sign determines sovereignty: F_community (+2) vs F_imposed (−2). |
 | V = k·n² | network value | k (connection constant) | n (nodes) | 2 | Network systems | Metcalfe's Law (empirically measured) |
 | V = k·2^n | group network value | k | n (groups) | exponential | Group-forming networks | Reed's Law |
 
@@ -140,6 +141,74 @@ n=1: the extractive instrument's native frame. Accurate within its designed rang
 n=2: what living, relational, and networked systems actually do when measured across sufficient scale and time. Compounding. Not a theoretical claim — a measured one.
 
 The forgazi is the gap between what n=1 instruments see and what n=2 systems do. The whole-data corpus is the record of that gap, accumulated.
+
+---
+
+## The Two-Equation Model: E=(MC)^±2 and F=(MA)^±2
+
+The master equation Φ=km^n has two primary instances in the KindPath field:
+
+$$E = (MC)^{\pm 2}$$
+$$F = (MA)^{\pm 2}$$
+
+**E=(MC)^±2 — field potential.** What the community contains. C is effectively a constant within any given field configuration — the conversion rate, the structural condition, the ground that allows M to compound. E is the stored relational energy of the system. At rest, this is what exists.
+
+**F=(MA)^±2 — field force.** What the community exerts when it moves. A is not a constant — it is activation state, momentum, the degree to which stored potential is being translated into directed force. F approaches zero when A approaches zero. A community at rest has E but not F. Action converts potential into force, and the field's force is non-linear in exactly the way E is: A compounds, not adds.
+
+These two equations are always both present — at rest, only E exists in full; in motion, F=(MA)^±2 is the measure of whether the activation worked.
+
+---
+
+### The ± Is the Operative Variable
+
+Both equations carry a sign. The ± is not decorative. It is the single most consequential variable in the system, and also the least visible to conventional measurement.
+
+**+2:**  
+The field compounds *for* the participants. Relational mass accumulates. Activation generates more capacity, more reach, more trust surface. The next interaction starts from a larger base than the last. The compounding works in the direction of the community's own growth and sovereignty.
+
+**-2:**  
+The field compounds *from* the participants. The same mass, the same activation — but the exponent is extractive. The more energy is put in, the more is taken. Scale increases dependency rather than capacity. The field grows toward whoever holds the sign, not toward whoever generated the M or the A.
+
+In mathematical terms:
+
+$$F = (MA)^{+2} \approx F = (MA)^{-2} \text{ at any single moment}$$
+
+Numerically identical. Same apparent output. You cannot distinguish them from one data point. You cannot distinguish them from one interaction. You can sometimes barely distinguish them from one quarter's metrics.
+
+The sign only becomes unambiguous in the *trajectory*: what happens to M and A *after* the interaction? Does relational mass grow on the participant side, or erode? Does activation become more available, or more constrained?
+
+---
+
+### They Look Almost Identical. They Feel Different.
+
+This is not a loose approximation. It is exactly right.
+
+Both are running simultaneously, right now, in most of the systems people inhabit. The extractive economy and the regenerative economy. The platform and the community. The "culture initiative" and the culture. The coach and the programme. The institution that says "we are a family" and the institution that actually functions like one.
+
+They use the same vocabulary: community, activation, engagement, impact, growth. They produce similar-looking outputs in the short run. Their surface metrics are designed to be indistinguishable — because if the sign were legible in the numbers, the -2 systems would lose participants immediately.
+
+The body knows before the numbers show it. The felt sense of whether you leave an interaction more resourced or less. Whether the activation energised something in you or drew something out of you. Whether the mass of the collective grew, or whether your contribution was processed and the mass remained controlled.
+
+This is why "feel" is data in KindPath, not noise. The body registers the sign. The somatic layer — KindSense, KindPath Q, the Compass — are instruments for making the sign legible, because conventional metrics are structurally incapable of measuring it. They are n=1 instruments reading an n=2 system, and they cannot see the ±.
+
+---
+
+### The Sovereignty Question
+
+$$F_{\text{community}} = (MA)^{+2}$$
+$$F_{\text{imposed}} = (MA)^{-2}$$
+
+Same equation. Same possible magnitude. Different sign. Different sovereignty.
+
+F_community: the participants *are* the source. Their mass, their activation, their field. The force amplifies what belongs to them. Governance structures that hold the +2 are those in which the people generating M and A also benefit from the compounding.
+
+F_imposed: the participants *are the substrate*. The mass is theirs. The activation is demanded of them. But the sign points elsewhere. The compounding runs toward the institution, the platform, the extraction structure.
+
+Police force. Military force. These are not structurally different equations — they are F=(MA)^±2 exactly as written. What distinguishes them is not scale, not legitimacy, not even stated purpose. What distinguishes them is the sign: who does the compounding serve when the force is exerted? The people from whom A was drawn, or the institution that directed it?
+
+Insecurity is the ± sign's internal mechanism. When a community internalises F_imposed — when the extractive sign is adopted as self-image, as shame, as compliance — the community's own F becomes -2. It turns its force-field against itself. This is the same dynamic as E=-(MC)² in the potential equation: same relational mass, compounding inward rather than outward.
+
+The liberation movement is not the replication of F_imposed at +2. It is the recovery of the sign itself — the community reclaiming that it holds the MA and that the compound effect belongs to them.
 
 ---
 
