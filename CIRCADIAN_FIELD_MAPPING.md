@@ -177,6 +177,87 @@ Accumulated circadian residue has a known clinical signature: elevated baseline 
 
 ---
 
+## Micro-Generational Relay
+
+Time moves through people. Not abstractly — biologically. The circadian system is
+calibrated across development: a child's clock is genuinely different from an
+adolescent's, which is genuinely different from a mature adult's, which is different
+again from an elder's. This is not a metaphor. Phase preference shifts measurably
+across the lifespan: adolescents exhibit a genuine biological phase delay (a later
+sleep-wake cycle), elders often phase-advance (earlier waking and sleep onset), and
+the arc between them shifts at each developmental transition.
+
+This means that **intergenerational transmission of knowledge is not just a cultural
+problem — it is a temporal one.** Two people whose circadian phases are significantly
+divergent are, in a meaningful sense, operating in different time. A 70-year-old
+elder whose peak cognitive and relational availability is 7am–11am and an adolescent
+whose biological peak hasn't arrived until early afternoon are not sharing the same
+temporal field — even if they occupy the same physical space.
+
+### The Relay Principle
+
+Knowledge transmission across a significant age gap requires a relay node — a person
+or agent whose circadian phase and developmental position sits between both parties.
+
+The relay principle (encoded operationally in the KCE community topology) holds that:
+
+1. **An age gap greater than approximately two developmental stages requires an
+   intermediate relay.** Direct transmission across too large a gap loses information
+   not because the content is wrong but because the temporal context in which the
+   content lives cannot be fully reconstructed by the receiving configuration.
+
+2. **The relay node is not a translator.** A translator converts. A relay node
+   *participates* in both phases — it is developmentally positioned to have genuine
+   resonance with both the transmitting and receiving temporal configurations. This
+   is why same-age peer transmission is so powerful: it requires no relay because the
+   temporal configurations are similar enough to hold the full signal.
+
+3. **Relay chains are temporary scaffolds, not permanent structures.** The purpose
+   of the relay is to bridge until the receiving system has grown into direct
+   transmission range. Chains that become permanent become extractive — they insert
+   a dependency where the goal is eventual direct transmission.
+
+4. **The path quality metric is HMOE (Human Measure of Effectiveness).** Shortest
+   path through the chain is not the goal. Highest-fidelity path — the one where each
+   relay node has genuine relational investment in both the knowledge and the receiver —
+   is. A lower-HMOE relay that adds two steps to the chain is better than a shorter
+   path through a node with no genuine resonance.
+
+5. **The relay works in both directions.** Elders transmitting forward and juniors
+   transmitting backward (reporting field state from a developmental position the
+   elder can no longer directly access) are both valid relay directions. This is
+   the operational meaning of the intergenerational dialogue criterion in the
+   self-dismantling assessment: the field is healthy when the relay runs both ways.
+
+### Circadian Relay Architecture
+
+In practical terms, this maps onto the circadian quarters:
+
+- The elder relay is most available in Q1 and early Q2 — schedule elder-to-next
+  transmission in early day windows
+- The adolescent/young adult is most available in Q2–Q3 — schedule peer-level
+  transmission and practical work in midday windows
+- Cross-generational relay sessions that require both parties should find the overlap
+  window (typically late Q1 / early Q2 for most configurations)
+- Q4 is not a relay window for forward transmission — it is the individual
+  integration and consolidation window; attempting cross-generational coordination
+  in Q4 operates against the biology
+
+### Encoding
+
+The micro-generational relay constraint is encoded in the KCE community topology:
+```
+{ enabled: true, triggerWhenAgeGapYearsExceeds: 2,
+  relayNodeTypes: ["person","agent","individual"],
+  sameAgeHandshakeRequired: true, lowHmoeIntent: true }
+```
+This is the computational translation of the biological principle: when the age gap
+is large enough to imply significant circadian phase divergence, the system routes
+transmission through the nearest available relay node rather than attempting direct
+bridging.
+
+---
+
 ## Summary
 
 The circadian system is not a health topic. It is the temporal field within which all health topics exist.

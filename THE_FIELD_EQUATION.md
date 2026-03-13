@@ -76,6 +76,8 @@ Reed's Law documents what happens when groups can form freely within a network: 
 
 The KindPath Phase 3 target is n>2 territory. It is not an optimised n=1 system, or even a well-designed n=2 system. It is a system whose architecture allows n>2 to emerge from accumulated relational depth.
 
+*Note on relay architecture:* Reed's Law describes group-forming network value, but it assumes each node can connect to every other. In biological and intergenerational systems, this isn't always true — not because of technical constraint but because of temporal phase divergence (see `CIRCADIAN_FIELD_MAPPING.md §Micro-Generational Relay`). The n>2 regime requires relay architecture when participant configurations span sufficient developmental distance that direct transmission loses fidelity. The relay node is the mechanism that routes compounding potential through developmentally coherent intermediaries, preserving the n>2 dynamic across configurations that would otherwise fall back to n=1 or break the connection entirely. Path quality — HMOE, relational fidelity — is the n>2 transmission criterion. Path length is the n=1 proxy for it.
+
 ---
 
 ## The Forgazi as n=1 Imposition

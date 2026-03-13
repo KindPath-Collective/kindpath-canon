@@ -110,6 +110,46 @@ as the observation deepens.
 
 ---
 
+## The Equation and the Exponent
+
+`E=(MC)²` is the positive-sign case of n^±n written out.
+
+This is not a metaphor. It is the same structural claim in two notations.
+
+The ± in n^±n names something about directionality. Connection compounds: when
+conditions are generative, the same relational architecture that produces growth
+runs with a positive exponent. When conditions are extractive, the same architecture
+runs with a negative one. The physics of compounding does not distinguish between
+directions. Isolation compounds loss at the same rate as connection compounds benefit.
+The mechanism is the same. Only the sign changes.
+
+`E=(MC)²` is the equation describing what happens when M and C are both growing,
+both sovereign, both compounding through their relational product. The squaring
+applies to the product — not to M or C separately. This is the n positive arm:
+the individual grows their contribution (M increases), the community grows its
+capacity (C increases), and the product of both is squared. Everything compounds.
+
+The full expression includes `E=-(MC)²` as its unwritten shadow: the extractive
+case where M is extracted from rather than supported, where C is diminished rather
+than grown, where the relational product is *negative mass* — individuals who cannot
+grow because the collective is withdrawing from them, communities that cannot grow
+because their members are being atomised. The same squaring amplifies the loss.
+
+This is why the relay matters. A missing bridge node — an age gap too large for
+direct transmission, no relay node available — is the structural equivalent of a
+broken connection in the relational product. It doesn't just reduce transmission
+bandwidth. Under a compounding regime, a broken connection in the wrong place at the
+wrong time runs the negative arm: the developmental isolation compounds, the knowledge
+that wasn't transmitted creates gaps in the receiving system's frame, and those gaps
+are themselves compounding absences. The relay is the mechanism that keeps the sign
+positive across configurations where direct connection would otherwise lose it.
+
+`E=(MC)²` is the design target. n^±n is what the field is actually doing —
+including the cases where conditions are running the negative exponent, and where
+the most urgent question is not "how do we grow?" but "how do we restore the sign?"
+
+---
+
 ## The Operational Instruction
 
 Remaining in the not-knowing is not a waiting room. It is the ground state for
