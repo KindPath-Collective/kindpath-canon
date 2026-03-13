@@ -24,6 +24,8 @@ by all other KindPath repositories.
 | `FIELD_COORDINATION_PROTOCOL.md` | Active | Practitioner guide for KCE: how to define a field, enrol participants, make a ring deposit, read the archive, and recognise the BEC threshold. Accessible to non-technical community members. |
 | `NANO_MAPPING_PROTOCOL.md` | Active | Operational guide for working with forgazi data at maximum resolution. Five steps from accepting forgazi material to phase transition. Applied to DFTE, FRED ingestion, and any system reconstructing original signal from institutional data. |
 | `BEC_DETECTION_GUIDE.md` | Active | How to recognise the BEC threshold in any residue corpus: volume, diversity, temporal span, cross-source density. What changes operationally when Phase 3 is reached. |
+| `DATA_SOVEREIGNTY_DIRECTIVE.md` | **Active — Binding** | **The KindPath standard for data governance, public accountability, and independent audit.** Daily public self-audit commitment. Minimum two independent international standards audits per year. Non-negotiable prohibitions on data sale and licensing. Individual participant rights framework. NFP application integration. Audit partner schedule. Read before any work involving participant data. |
+| `THE_AUTHENTIC_RECORD.md` | **Active — Foundational** | **KindPath as a seedbank and library of authentic human experience.** The philosophical and operational case for why KindPath is a library in the literal, structural sense — not a metaphor. Cryptographic changelog commitment. Participant sovereignty as architectural principle. The Indigenous precedent. NFP public benefit argument. Operational implications for deletion, access, additions, integrity, and severability policies. Read alongside THE_GROUND.md. |
 
 ## Per-Repo Implementations
 
