@@ -46,7 +46,7 @@ No organisation can audit itself into trustworthiness. Self-reporting is necessa
 
 KindPath commits to a minimum of **two independent international standards audits per year**, conducted by organisations with no commercial relationship with KindPath, under different frameworks, reporting findings publicly in full.
 
-Confirmed audit partner engagements are listed in **Schedule A** below. These are real commitments with real organisations. This document is updated when new engagements are confirmed or when audit reports are published.
+Audit partner status is maintained in **Schedule A** below. As of this version, no partners are yet contractually confirmed. Outreach is active and publicly tracked until confirmation is complete.
 
 In addition to the independent audits, KindPath complies with all applicable statutory obligations under Australian law, including reporting requirements to the OAIC and ACNC governance standards once registered.
 
@@ -130,16 +130,26 @@ ISO certification is a target for the 2027 fiscal year. Until formal certificati
 
 ---
 
-## Schedule A — Confirmed Audit Partners
+## Schedule A — Audit Partner Status
 
-*Partners listed here have confirmed engagement. Date of last audit and next scheduled audit are shown.*
+Status date: 2026-03-13
 
-> **[NOTE — Sam to populate this section with confirmed partner names and engagement dates before this document is finalised. The following structure is ready for completion.]*
+As of this date, there are **no contractually confirmed Schedule A audit partners yet**. This does not change the binding commitment of minimum two independent international audits per year. It means the commitment is in active partner-acquisition phase.
+
+### Confirmation table (updates when signed)
 
 | Partner | Framework | Last Audit | Next Scheduled | Report Published |
 |---|---|---|---|---|
-| [Partner 1 — Sam to confirm] | [Framework] | [Date] | [Date] | [Link] |
-| [Partner 2 — Sam to confirm] | [Framework] | [Date] | [Date] | [Link] |
+| _None confirmed yet_ | | | | |
+
+### Active outreach tracker
+
+| Partner | Focus | Outreach Status | Notes |
+|---|---|---|---|
+| Open Data Institute (UK) | Open data governance assessment | Outreach pack prepared (2026-03-13) | Pending direct send and scoping call |
+| MyData Global | Human-centric data rights assessment | Outreach pack prepared (2026-03-13) | Pending direct send and scoping call |
+| Australian Information Industry Association (AIIA) | Digital ethics governance review | Outreach pack prepared (2026-03-13) | Pending direct send and scoping call |
+| KPMG Digital Trust (Australia) | Privacy/cyber assurance review | Outreach pack prepared (2026-03-13) | Pending direct send and scoping call |
 
 ### Targeted Partners — Not Yet Confirmed
 
@@ -150,7 +160,7 @@ The following organisations have been identified as appropriate independent audi
 - **Australian Information Industry Association (AIIA)** — Digital Ethics assessment
 - **KPMG Digital Trust (Australia)** — Privacy and data governance assurance
 
-Confirmed partnerships will be moved to Schedule A with execution dates when agreements are in place.
+Confirmed partnerships are moved into the confirmation table above with signed dates, review scope, and public report links.
 
 ---
 
