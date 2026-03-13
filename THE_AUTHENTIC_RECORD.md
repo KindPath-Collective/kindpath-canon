@@ -199,8 +199,8 @@ across the domains it operates in:
   verified corpus of authentic creative work. Technique belongs to everyone.
   The knowledge it contains about how music is actually made, what authentic
   creative signal looks like, and how manufacturing and conditioning work in
-  the frequency domain — this benefits every creator, listener, educator, and
-  researcher who accesses it.
+   the frequency domain — this benefits every creator, listener, educator, and
+   KindSearch practitioner who accesses it.
 
 - The **methodology corpus** (kindpath-canon, kindpath-fieldkit) is permanent,
   public, and free. The frameworks for understanding relational health, economic
@@ -213,9 +213,9 @@ across the domains it operates in:
   practice improvement, policy, and advocacy.
 
 - The **ecological and relational signal corpus** builds over time into a
-  research resource for understanding how communities and ecosystems are actually
-  functioning — data that serves public health, environmental policy, community
-  development, and social research.
+   KindSearch resource for understanding how communities and ecosystems are actually
+   functioning — data that serves public health, environmental policy, community
+   development, and community KindSearch.
 
 None of this generates profit. All of it generates knowledge that belongs to
 the commons. This is the NFP object in its most direct form.
@@ -263,7 +263,7 @@ would apply to destroying a physical library collection.
 **Access policy:** The record is available to researchers, practitioners, educators,
 and community members under terms that honour both the participants who created it
 and the principle that knowledge belongs to everyone. No paywalls on the commons.
-Commercial research use requires a separate access agreement with defined terms
+Commercial KindSearch use requires a separate access agreement with defined terms
 and revenue share back to the source communities.
 
 **Additions policy:** New categories of signal collection require community

@@ -12,7 +12,7 @@ Data collection is not a neutral act. In the current economic environment, "data
 
 KindPath operates from a different premise entirely.
 
-We collect data because we are a research instrument. The signal we gather — relational, economic, creative, ecological — is the basis of everything we build. That creates an obligation that cannot be discharged by compliance alone. The people whose signal flows through this system are not data subjects. They are the reason the system exists. Their sovereignty over their own signal is not a regulatory requirement. It is a founding principle.
+We collect data because we are a KindSearch instrument. The signal we gather — relational, economic, creative, ecological — is the basis of everything we build. That creates an obligation that cannot be discharged by compliance alone. The people whose signal flows through this system are not data subjects. They are the reason the system exists. Their sovereignty over their own signal is not a regulatory requirement. It is a founding principle.
 
 This directive is the operational expression of that principle. It is not aspirational. Every commitment stated here is binding from the date of adoption. Where implementation is pending, a delivery date is stated. Where an external partner commitment is confirmed, it is named. Where a commitment is targeted but not yet finalised, it is marked **[TARGETED — Sam to confirm]**.
 
@@ -72,9 +72,9 @@ KindPath collects signal in the following categories:
 
 | Category | What It Is | Why | Retention |
 |---|---|---|---|
-| Relational signal | Anonymised patterns of relational interaction within KCE | Field research — understanding how communities coordinate | 7 years, anonymised |
+| Relational signal | Anonymised patterns of relational interaction within KCE | KindSearch — understanding how communities coordinate | 7 years, anonymised |
 | Economic signal | DFTE/KEPE market signal (public data sources) | Trading engine calibration | Indefinite — public data |
-| Creative signal | Audio analysis outputs (no raw audio retained) | Analyser seedbank and research corpus | Indefinite — with participant consent |
+| Creative signal | Audio analysis outputs (no raw audio retained) | Analyser seedbank and KindSearch corpus | Indefinite — with participant consent |
 | Case coordination signal | NDIS case note data | Service delivery — NDIS compliance | 7 years — encrypted at rest |
 | Practitioner signal | Session data from KindPath Compass | Practice support and methodology improvement | Session-only unless consented |
 | Operational signal | System logs, error logs | Security and reliability | 90 days |
@@ -87,7 +87,7 @@ These are not policies that can be overridden by commercial pressure, partnershi
 
 1. **We do not sell data.** No participant data, no aggregate data, no derived insights about identifiable individuals or communities, to any third party, under any commercial arrangement, ever.
 
-2. **We do not license data.** No data licensing arrangements, API monetisation of participant signal, or "research partnerships" that give external organisations access to participant-level data.
+2. **We do not license data.** No data licensing arrangements, API monetisation of participant signal, or "KindSearch partnerships" that give external organisations access to participant-level data.
 
 3. **We do not use dark patterns.** No consent flows designed to obscure what is being agreed to. No bundled consent. No pre-checked boxes. No consent buried in terms of service. Every consent is granular, plain-language, and separately obtained per data category.
 
@@ -168,7 +168,7 @@ Confirmed partnerships are moved into the confirmation table above with signed d
 
 The data sovereignty framework described in this directive is core evidence for KindPath's NFP and potential Deductible Gift Recipient (DGR) application to the ACNC and ATO. The following elements directly support the application:
 
-**Public benefit test:** The daily public self-audit, open seedbank (kindpath-analyser), and open methodology (kindpath-canon, kindpath-fieldkit) are forms of public benefit that benefit a class of persons beyond KindPath's direct participants. The research conducted under this framework contributes to public knowledge about data sovereignty, relational economics, and creative authenticity.
+**Public benefit test:** The daily public self-audit, open seedbank (kindpath-analyser), and open methodology (kindpath-canon, kindpath-fieldkit) are forms of public benefit that benefit a class of persons beyond KindPath's direct participants. The KindSearch work conducted under this framework contributes to public knowledge about data sovereignty, relational economics, and creative authenticity.
 
 **Accountability:** The ACNC Governance Standards require NFPs to operate responsibly and accountably. This directive, its public audit trail, and its independent audit schedule constitute pre-established governance infrastructure that exceeds ACNC requirements.
 

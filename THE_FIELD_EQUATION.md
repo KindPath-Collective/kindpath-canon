@@ -106,7 +106,7 @@ This is definitively not `E=mc²`. The cosmological constant `c` is fixed — th
 
 When a physicist says "that's not how these equations work derivationally" — they are correct, and they are applying an n=1 derivational instrument to an n=2 descriptive claim. The formatting doesn't match because the claim is not a derivation. It is a field observation wearing the nearest available notation.
 
-The empirical grounding for the KindPath framework is: Metcalfe's Law (measured), Reed's Law (measured), mycorrhizal network ecology (measured), complex systems scaling research (measured). The pattern is real. The notation points at it. The notation is not the thing.
+The empirical grounding for the KindPath framework is: Metcalfe's Law (measured), Reed's Law (measured), mycorrhizal network ecology (measured), complex systems scaling KindSearch (measured). The pattern is real. The notation points at it. The notation is not the thing.
 
 ---
 

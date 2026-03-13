@@ -155,7 +155,7 @@ This is not optional. It is the mechanism that prevents the system from becoming
 New understanding enters from multiple directions simultaneously:
 
 - **New records** deposited in the seedbank introduce new fingerprints. Patterns across those fingerprints may reveal that an existing tag's scope was too narrow, too broad, or misaligned with what the data shows.
-- **New evidence** from external sources — research, field practice, community feedback — may update what a tag is understood to mean.
+- **New evidence** from external sources — KindSearch, field practice, community feedback — may update what a tag is understood to mean.
 - **New community context** — a place-based constant that was accurate in 2024 may have shifted by 2026. The constant expires. It needs versioning.
 - **Cross-domain connection** — work done in one domain (circadian field mapping, NDIS practice, trading architecture) may refine the definition of a tag that was conceived in another.
 

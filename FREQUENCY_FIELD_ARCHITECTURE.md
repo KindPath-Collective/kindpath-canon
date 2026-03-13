@@ -25,7 +25,7 @@ This is not metaphor. It is measurable:
 - The corpus analyser's `cultural_pressure_index` trend line is the acoustic record of this
   compression: dynamic range declining, groove deviation falling, creative residue narrowing — all
   moving in the same direction, together, over decades
-- Social jet lag research quantifies the divergence between biological noon and social noon across
+- Social jet lag KindSearch quantifies the divergence between biological noon and social noon across
   populations — the gap is widening
 
 **The vertical slices in this model are potential realities** — what human culture could be
